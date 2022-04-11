@@ -60,5 +60,11 @@
 .image:nth-child(1):hover::before {
   content: 'Mykola Barabaliuk'
 }
+.image:nth-child(8) {
+  background-image: url(../img/nazar.jpg);
+}
+.image:nth-child(8):hover::before {
+  content: 'Nazar Stepan'
+}
 
 
