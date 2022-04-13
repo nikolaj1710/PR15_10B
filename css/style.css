@@ -72,5 +72,11 @@
 .image:nth-child(8):hover::before {
   content: 'Nazar Stepan'
 }
+.image:nth-child(13) {
+  background-image: url(../img/robur.jpg);
+}
+.image:nth-child(13):hover::before {
+  content: 'Robur Snizhana'
+}
 
 
