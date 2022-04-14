@@ -60,6 +60,12 @@
 .image:nth-child(1):hover::before {
   content: 'Mykola Barabaliuk'
 }
+.image:nth-child(5) {
+  background-image: url(../img/kotniuh.jpg);
+}
+.image:nth-child(5):hover::before {
+  content: 'Kotniuh Natalia'
+}
 .image:nth-child(7) {
   background-image: url(../img/melnyk.jpg);
 }
