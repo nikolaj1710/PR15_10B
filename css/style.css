@@ -72,6 +72,12 @@
 .image:nth-child(8):hover::before {
   content: 'Nazar Stepan'
 }
+.image:nth-child(11) {
+  background-image: url(../img/periv.jpg);
+}
+.image:nth-child(11):hover::before {
+  content: 'Periv Sofia'
+}
 .image:nth-child(13) {
   background-image: url(../img/robur.jpg);
 }
