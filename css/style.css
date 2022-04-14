@@ -84,5 +84,10 @@
 .image:nth-child(13):hover::before {
   content: 'Robur Snizhana'
 }
-
+.image:nth-child(15) {
+  background-image: url(../img/timoshchenko.jpg);
+}
+.image:nth-child(15):hover::before {
+  content: 'Timoshchenko Vlad'
+}
 
