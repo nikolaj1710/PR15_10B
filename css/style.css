@@ -84,6 +84,12 @@
 .image:nth-child(9):hover::before {
   content: 'Panchii Bohdan'
 }
+.image:nth-child(10) {
+  background-image: url(../img/onyskiv.jpg);
+}
+.image:nth-child(10):hover::before {
+  content: 'Onyskiv Julianna'
+}
 .image:nth-child(11) {
   background-image: url(../img/periv.jpg);
 }
