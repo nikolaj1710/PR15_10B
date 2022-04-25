@@ -60,6 +60,13 @@
 .image:nth-child(1):hover::before {
   content: 'Mykola Barabaliuk'
 }
+.image:nth-child(4) {
+  background-image: url(../img/koval.png);
+}
+.image:nth-child(4):hover::before {
+  content: 'Serhiy Koval'
+}
+
 .image:nth-child(5) {
   background-image: url(../img/kotniuh.jpg);
 }
